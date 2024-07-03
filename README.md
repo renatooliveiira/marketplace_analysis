@@ -45,7 +45,7 @@ O gráfico apresenta a correlação entre a discrepância entre o preço de vare
 
 Observa-se no gráfico uma relação positiva entre a discrepância e a taxa de conversão das vendas. Este resultado indica que à medida que a discrepância aumenta, há um correspondente aumento na taxa de conversão das vendas.
 
-![img](src="imagens/01.png")
+![img](imagens/01.png)
 
 Isso signifinica que produtos com maior discrepância de preço tendem a atrair mais consumidores devido à percepção de que estão obtendo um excelente negócio. Esses produtos frequentemente são destacados em promoções ou liquidações, beneficiando-se da disposição dos varejistas em reduzir os preços de itens com margens de lucro mais amplas. Além disso, a preferência por compras online aumenta a probabilidade de que produtos com preços mais baixos sejam vendidos, pois os consumidores têm maior propensão a comparar preços pela internet.
 
