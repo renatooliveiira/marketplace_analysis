@@ -56,7 +56,7 @@ Isso signifinica que produtos com maior discrepância de preço tendem a atrair 
 
 Proporção de produtos não bem sucedidos e bem sucedidos que usam "ad boosts:
 
-![img](img="imagens/02.png")
+![img](imagens/02.png)
 
 **Interpretação dos Resultados**
 
@@ -84,7 +84,7 @@ Observações do Gráfico:
 
 - A distribuição dos produtos que não tiveram sucesso mostra um pico menor em torno da avaliação de 3 a 4 e uma quantidade significativa de avaliações na faixa de 4,5 a 5.
 
-![img](src="imagens/03.png")
+![img](imagens/03.png)
 
 **Produtos de sucesso tendem a ter avaliações mais altas:**
 
@@ -102,7 +102,7 @@ Assim, avaliações positivas (altas) parecem, de fato, impulsionar as vendas de
 
 Com base nesse insight, observamos que ter um número específico de tags (em torno de 10 a 15) pode estar associado a taxas de sucesso mais altas, conforme indicado pelo pico no histograma laranja. No entanto, há também uma quantidade significativa de produtos com 'Sucesso = 0' dentro dessa faixa, sugerindo que as tags podem auxiliar nas vendas até certo ponto, mas não são o único fator responsável pelo sucesso. Outros fatores também podem desempenhar um papel importante.
 
-![img](src="imagens/04.png")
+![img](imagens/04.png)
 
 ---
 
@@ -117,7 +117,7 @@ Com base no gráfico, as tags associadas a maiores vendas são:
 
 Essas tags têm maior destaque no lado esquerdo do gráfico, indicando uma forte associação com produtos de sucesso.
 
-![img](src="imagens/05.png")
+![img](imagens/05.png)
 
 ---
 
@@ -125,28 +125,28 @@ Essas tags têm maior destaque no lado esquerdo do gráfico, indicando uma forte
 
 Distribuição de Produtos com e sem Envio Expresso:
 
-![img](src="imagens/06.png")
+![img](imagens/06.png)
 
 Isso indica que a maioria dos produtos (1569) não utilizam envio expresso, enquanto apenas 4 produtos utilizam envio expresso.
 
 
 Média de Unidades Vendidas por Tipo de Envio:
 
-![img](src="imagens/07.png")
+![img](imagens/07.png)
 
 A média de unidades vendidas para produtos sem envio expresso é 4342.98, enquanto a média para produtos com envio expresso é 2800.00.
 
 
 Teste T de Independência:
 
-![img](src="imagens/08.png")
+![img](imagens/08.png)
 
 O teste T de independência indica que a diferença nas médias de unidades vendidas entre produtos com e sem envio expresso não é estatisticamente significativa (p_value > 0.05).
 
 
 Concluindo, a análise mostra que, embora os produtos embora os produtos sem envio expresso tenham uma média de unidades vendidas maior do que os produtos com envio expresso, essa diferença não é estatisticamente significativa. Isso sugere que, com base nos dados disponíveis, o envio expresso não tem um impacto significativo nas vendas.
 
-![img](src="imagens/09.png")
+![img](imagens/09.png)
 
 ---
 
