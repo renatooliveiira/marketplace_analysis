@@ -56,7 +56,7 @@ Isso signifinica que produtos com maior discrepância de preço tendem a atrair 
 
 Proporção de produtos não bem sucedidos e bem sucedidos que usam "ad boosts:
 
-![img](src="imagens/02.png")
+![img](img="imagens/02.png")
 
 **Interpretação dos Resultados**
 
