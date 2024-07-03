@@ -161,8 +161,10 @@ Com base na análise, foram identificados alguns fatores chave que influenciam n
 - Avaliações positivas estão associadas a um maior volume de vendas.
 
 - A quantidade de tags também tem um efeito positivo nas vendas.
-
+  
 - Certas tags estão associadas a maiores vendas.
+  
+- O envio expresso não tem um impacto significativo nas vendas.
 
 Estas conclusões podem ajudar a empresa a tomar decisões mais informadas sobre quais produtos revender e como otimizá-los para maximizar as vendas.
 
