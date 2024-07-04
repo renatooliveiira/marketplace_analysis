@@ -22,13 +22,14 @@ Uma empresa está planejando revender produtos em um marketplace e deseja otimiz
 
 ## Metodologia
 
-A análise foi conduzida utilizando Python e diversas bibliotecas de visualização de dados. Os passos principais incluíram:
+A análise foi conduzida utilizando Python e algumas bibliotecas de visualização de dados. A base de dados utilizada nesta análise foi obtida no site Kaggle. Os passos principais incluíram:
 
 **Carregamento e Visualização dos Dados:**
 - Realização de uma análise exploratória inicial para compreender a estrutura e as características dos dados.
 
 **Limpeza e preparação dos dados:**
-- Limpeza e preparação dos dados.
+- Remoção de inconsistências e tratamento de valores ausentes.
+- Preparação dos dados para análise, incluindo a normalização e transformação de variáveis.
 - Exploração dos principais fatores que influenciam as vendas.
 
 **Visualizações:**
