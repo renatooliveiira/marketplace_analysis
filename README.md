@@ -1,7 +1,7 @@
 
 # Projeto - Análise Estratégica de Vendas e Performance em Marketplaces.
 
-Este projeto realiza uma análise das vendas de produtos em um marketplace, com o objetivo de entender quais fatores influenciam nas vendas e fornecer insights valiosos para uma empresa que planeja revender produtos na plataforma.
+Este projeto realiza uma análise das vendas de produtos em um marketplace, com o objetivo de entender quais fatores influenciam nas vendas e fornecer insights valiosos para uma empresa que planeja vender produtos na plataforma.
 
 ---
 
