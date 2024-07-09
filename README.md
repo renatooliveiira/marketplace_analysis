@@ -1,9 +1,12 @@
 
 # Projeto - Análise Estratégica de Vendas e Performance em Marketplaces.
 
-Este projeto realiza uma análise das vendas de produtos em um marketplace, com o objetivo de entender quais fatores influenciam nas vendas e fornecer insights valiosos para uma empresa que planeja vender produtos na plataforma.
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/matplotlib-%23135F9B?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/seaborn-%23444876?style=for-the-badge)
 
----
+Este projeto realiza uma análise das vendas de produtos em um marketplace, com o objetivo de entender quais fatores influenciam nas vendas e fornecer insights valiosos para uma empresa que planeja vender produtos na plataforma.
 
 ## Introdução
 
@@ -17,8 +20,6 @@ Uma empresa está planejando revender produtos em um marketplace e deseja otimiz
 - Avaliações positivas impulsionam as vendas?
 - Quais tags estão associadas a maiores vendas?
 - O envio expresso impacta nas vendas?
-
----
 
 ## Metodologia
 
@@ -36,7 +37,6 @@ A análise foi conduzida utilizando Python e algumas bibliotecas de visualizaç�
 
 - Criação de gráficos para entender melhor os padrões nos dados.
 
----
 
 ## Análise
 
@@ -49,7 +49,6 @@ Observa-se no gráfico uma relação positiva entre a discrepância e a taxa de 
 ![img](imagens/01.png)
 
 Isso signifinica que produtos com maior discrepância de preço tendem a atrair mais consumidores devido à percepção de que estão obtendo um excelente negócio. Esses produtos frequentemente são destacados em promoções ou liquidações, beneficiando-se da disposição dos varejistas em reduzir os preços de itens com margens de lucro mais amplas. Além disso, a preferência por compras online aumenta a probabilidade de que produtos com preços mais baixos sejam vendidos, pois os consumidores têm maior propensão a comparar preços pela internet.
-
 
 ---
 
@@ -149,7 +148,6 @@ Concluindo, a análise mostra que, embora os produtos embora os produtos sem env
 
 ![img](imagens/09.png)
 
----
 
 ## Conclusão
 
@@ -169,15 +167,6 @@ Com base na análise, foram identificados alguns fatores chave que influenciam n
 
 Estas conclusões podem ajudar a empresa a tomar decisões mais informadas sobre quais produtos revender e como otimizá-los para maximizar as vendas.
 
----
-
-## Tecnologias
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
 ## Referência
 
