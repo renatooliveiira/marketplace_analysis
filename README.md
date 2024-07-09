@@ -10,7 +10,7 @@ Este projeto realiza uma análise das vendas de produtos em um marketplace, com 
 
 ## Introdução
 
-Uma empresa está planejando revender produtos em um marketplace e deseja otimizar suas estratégias para maximizar as vendas. Este projeto tem como objetivo fornecer insights detalhados sobre os fatores que influenciam o desempenho de vendas dos produtos na plataforma.
+Uma empresa está planejando vender produtos em um marketplace e deseja otimizar suas estratégias para maximizar as vendas. Este projeto tem como objetivo fornecer insights detalhados sobre os fatores que influenciam o desempenho de vendas dos produtos na plataforma.
 
 
 ## Algumas das perguntas que este projeto procura responder incluem:
