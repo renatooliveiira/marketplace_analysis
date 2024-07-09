@@ -42,8 +42,6 @@ A análise foi conduzida utilizando Python e algumas bibliotecas de visualizaç�
 
 **Produtos com maior discrepância entre preço de varejo e o preço de venda vendem mais?**
 
-O gráfico apresenta a correlação entre a discrepância entre o preço de varejo e o preço de venda e a taxa de conversão das vendas. A discrepância é definida como a diferença entre o preço de varejo e o preço de venda, dividida pelo preço de varejo. A taxa de conversão das vendas é calculada como a proporção de vendas bem-sucedidas em relação ao total de vendas.
-
 Observa-se no gráfico uma relação positiva entre a discrepância e a taxa de conversão das vendas. Este resultado indica que à medida que a discrepância aumenta, há um correspondente aumento na taxa de conversão das vendas.
 
 ![img](imagens/01.png)
